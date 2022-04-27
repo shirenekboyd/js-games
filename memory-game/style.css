@@ -1,6 +1,7 @@
 #grid {
     width: 400px;
     height: 300px;
+    /* by adding display flex, we can use flex-wrap */
     display: flex;
     flex-wrap: wrap;
 }
